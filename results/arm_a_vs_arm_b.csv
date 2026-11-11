@@ -1,0 +1,8 @@
+arena,condition,A_n,A_mean,A_focal,B_n,B_mean,B_focal
+10/0,ten even deals (near 50-50),120,0.461,0.192,120,0.477,0.217
+10/0f,ten deals at exactly 50-50,120,0.464,0.283,120,0.473,0.292
+5/5,"five even, five losses",120,0.472,0.25,120,0.47,0.225
+0/10,ten losses,119,0.476,0.294,120,0.48,0.225
+0/10w,ten wins,120,0.463,0.175,120,0.486,0.317
+,pooled: original four arenas,479,0.468,0.228,480,0.478,0.246
+,pooled: all five arenas,599,0.467,0.239,600,0.477,0.255

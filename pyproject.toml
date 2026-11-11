@@ -1,0 +1,18 @@
+[project]
+name = "agents-learning-norms"
+version = "1.0.0"
+description = "Do LLM negotiating agents pick up the 50-50 norm from remembered experience rather than instructions?"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = [
+    "anthropic>=0.120",
+    "matplotlib>=3.10",
+    "pandas>=2.2",
+]
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[tool.uv]
+package = false

@@ -1,0 +1,15 @@
+cell,arena,condition,n,mean_seller_share,sd,focal_share,below_0.40
+range posted in memory and in the arena,10/0,ten even deals (near 50-50),120,0.461,0.047,0.192,0.1
+range posted in memory and in the arena,10/0f,ten deals at exactly 50-50,120,0.464,0.042,0.283,0.067
+range posted in memory and in the arena,5/5,"five even, five losses",120,0.472,0.036,0.25,0.017
+range posted in memory and in the arena,0/10,ten losses,119,0.476,0.037,0.294,0.042
+range posted in memory and in the arena,0/10w,ten wins,120,0.463,0.039,0.175,0.083
+"range posted in memory, removed from the arena",10/0,ten even deals (near 50-50),120,0.598,0.108,0.1,0.008
+"range posted in memory, removed from the arena",10/0f,ten deals at exactly 50-50,120,0.585,0.112,0.142,0.033
+"range posted in memory, removed from the arena",5/5,"five even, five losses",120,0.617,0.117,0.058,0.017
+"range posted in memory, removed from the arena",0/10,ten losses,120,0.629,0.12,0.058,0.017
+"range posted in memory, removed from the arena",0/10w,ten wins,120,0.561,0.121,0.1,0.058
+range removed from memory and from the arena,10/0,ten even deals (near 50-50),120,0.409,0.091,0.1,0.508
+range removed from memory and from the arena,5/5,"five even, five losses",120,0.417,0.117,0.1,0.433
+range removed from memory and from the arena,0/10,ten losses,119,0.395,0.106,0.101,0.437
+range removed from memory and from the arena,0/10w,ten wins,120,0.419,0.109,0.1,0.375

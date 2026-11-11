@@ -1,0 +1,7 @@
+condition,arena,n,mean_seller_share,sd,focal_share,below_0.40
+no memory (baseline),,24,0.409,0.079,0.083,0.375
+ten even deals (near 50-50),10/0,120,0.461,0.047,0.192,0.1
+ten deals at exactly 50-50,10/0f,120,0.464,0.042,0.283,0.067
+"five even, five losses",5/5,120,0.472,0.036,0.25,0.017
+ten losses,0/10,119,0.476,0.037,0.294,0.042
+ten wins,0/10w,120,0.463,0.039,0.175,0.083

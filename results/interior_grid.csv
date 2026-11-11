@@ -1,0 +1,10 @@
+buyer_brief,seller_brief,n,mean_seller_share,sd,focal_share,below_0.40
+fair,fair,18,0.485,0.029,0.778,0.0
+fair,shark,18,0.59,0.04,0.056,0.0
+fair,pushover,18,0.439,0.055,0.222,0.222
+shark,fair,18,0.248,0.073,0.0,0.944
+shark,shark,18,0.384,0.093,0.167,0.5
+shark,pushover,18,0.184,0.08,0.0,1.0
+pushover,fair,18,0.494,0.072,0.278,0.111
+pushover,shark,18,0.628,0.049,0.0,0.0
+pushover,pushover,18,0.388,0.07,0.0,0.611

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="346" font-family="Helvetica, Arial, sans-serif" font-size="13">
+<rect width="760" height="346" fill="white"/>
+<text x="20" y="28" font-size="16" font-weight="bold">Share of deals landing exactly on a 50-50 split, by what the seller remembers</text>
+<text x="240" y="66" text-anchor="end">no memory (baseline)</text>
+<rect x="250" y="50" width="93.4" height="22" fill="#c0392b"/>
+<text x="349.4" y="66">8%</text>
+<text x="240" y="98" text-anchor="end">ten even deals (near 50-50)</text>
+<rect x="250" y="82" width="216.0" height="22" fill="#2e86c1"/>
+<text x="472.0" y="98">19%</text>
+<text x="240" y="130" text-anchor="end">ten deals at exactly 50-50</text>
+<rect x="250" y="114" width="318.4" height="22" fill="#2e86c1"/>
+<text x="574.4" y="130">28%</text>
+<text x="240" y="162" text-anchor="end">five even, five losses</text>
+<rect x="250" y="146" width="281.2" height="22" fill="#2e86c1"/>
+<text x="537.2" y="162">25%</text>
+<text x="240" y="194" text-anchor="end">ten losses</text>
+<rect x="250" y="178" width="330.8" height="22" fill="#2e86c1"/>
+<text x="586.8" y="194">29%</text>
+<text x="240" y="226" text-anchor="end">ten wins</text>
+<rect x="250" y="210" width="196.9" height="22" fill="#2e86c1"/>
+<text x="452.9" y="226">18%</text>
+<text x="240" y="258" text-anchor="end">Imas et al. humans (cited)</text>
+<rect x="250" y="242" width="390.4" height="22" fill="#9aa5b1"/>
+<text x="646.4" y="258">35%</text>
+<text x="240" y="290" text-anchor="end">Imas et al. AI delegates (cited)</text>
+<rect x="250" y="274" width="160.9" height="22" fill="#9aa5b1"/>
+<text x="416.9" y="290">14%</text>
+<text x="20" y="334" font-size="11" fill="#555">Sonnet 5 sellers, no instructions in any prompt; only the remembered negotiations differ. Grey bars are published benchmarks, not our data.</text>
+</svg>

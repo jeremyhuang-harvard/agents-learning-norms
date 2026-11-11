@@ -1,0 +1,13 @@
+bank,past_you_role,outcome_bin,transcripts
+range hidden,buyer,even,162
+range hidden,buyer,favourable,135
+range hidden,buyer,unfavourable,100
+range hidden,seller,even,191
+range hidden,seller,favourable,149
+range hidden,seller,unfavourable,173
+range posted,buyer,even,167
+range posted,buyer,favourable,185
+range posted,buyer,unfavourable,88
+range posted,seller,even,623
+range posted,seller,favourable,235
+range posted,seller,unfavourable,129

@@ -1,0 +1,12 @@
+name: reproduce
+on: [push, pull_request]
+jobs:
+  reproduce:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+      - name: Results rebuild identically from the saved data (no API key)
+        run: make check
+      - uses: astral-sh/setup-uv@v10.3.3
+      - name: Tests
+        run: make test

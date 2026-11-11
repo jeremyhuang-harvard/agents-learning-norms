@@ -1,0 +1,9 @@
+model_cell,opener,n,mean_seller_share,sd,focal_share,below_0.40
+sonnet-think,buyer,24,0.409,0.079,0.083,0.375
+sonnet-think,seller,24,0.484,0.045,0.208,0.0
+sonnet-nothink,buyer,47,0.403,0.064,0.064,0.447
+sonnet-nothink,seller,40,0.452,0.053,0.05,0.075
+haiku-think,buyer,48,0.498,0.083,0.125,0.083
+haiku-think,seller,48,0.532,0.095,0.125,0.083
+haiku-nothink,buyer,23,0.516,0.091,0.087,0.13
+haiku-nothink,seller,24,0.508,0.126,0.125,0.208
